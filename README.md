@@ -23,5 +23,5 @@ The script is safe. Krnl, on the other hand, may have viruses.
 - And More !
 
 # Script ?
-To load the script, go to Krnl.exe, click> Open File> C: \ Users \ Downloads \ KRNLWRD \ KRNLWRD \ scripts 
+To load the script, go to Krnl.exe, click> Open File> And select the "Scripts" folder and the Script For JailBreak (GitHub) .lua file
 Or just like you have files on your computer.
