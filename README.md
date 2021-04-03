@@ -10,7 +10,7 @@ Therefore, we recommend that you use Krnl.
 The last script used was 4/2/21
 
 # How Download ?
-The script is in Releases the same as the latest version of Krnl injector.
+The script is in the "Script" folder in Krnl Folder the same as the latest version of Krnl injector.
 The script is safe. Krnl, on the other hand, may have viruses.
 
 # What has ?
@@ -21,3 +21,7 @@ The script is safe. Krnl, on the other hand, may have viruses.
 - Infinite Nitro
 - Infinite Ammo
 - And More !
+
+# Script ?
+To load the script, go to Krnl.exe, click> Open File> C: \ Users \ Downloads \ KRNLWRD \ KRNLWRD \ scripts 
+Or just like you have files on your computer.
